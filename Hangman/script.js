@@ -58,7 +58,7 @@ function updateWrongLettersEl() {
   }
 }
 
-// Show Notification
+// Show Notification for user
 function showNotification() {
   notification.classList.add("show");
   setTimeout(() => {
